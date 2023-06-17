@@ -13,7 +13,6 @@ A AMAZING 1.12.2  MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
 <br>
 <p align="center">
 A AMAZING 1.12.2 Minecraft MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often <br/>
-![Downloads](https://img.shields.io/github/downloads/hackribs/AREA420/total) ![Contributors](https://img.shields.io/github/contributors/hackribs/AREA420?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/hackribs/AREA420?style=social) ![Issues](https://img.shields.io/github/issues/hackribs/AREA420) ![License](https://img.shields.io/github/license/hackribs/AREA420) 
 # Getting Started
 
 ( ͡° ͜ʖ ͡°)------Look Below------ ( ͡° ͜ʖ ͡°)
