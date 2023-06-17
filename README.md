@@ -1,11 +1,11 @@
 <br/>
 <p align="center">
   <h3 align="center">AREA420</h3>
-<p align="center">
-  (https://github.com/hackribs/AREA420/assets/48854364/dd6adda6-65de-4de4-845e-f81240cdf12c)
 
-   CUSTOM 1.12.2 Minecraft Forge Modpack.
+  <p align="center">
+    CUSTOM 1.12.2 Minecraft Forge Modpack.
     <br/>
+  <img src="C:\Users\Zooky\curseforge\minecraft\Instances\Area420 (1)\profileImage" alt="Alt text" title="Optional title">
     <br/>
     <a href="https://github.com/hackribs/AREA420/issues">Report Bug</a>
     .
