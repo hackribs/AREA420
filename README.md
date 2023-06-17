@@ -8,6 +8,7 @@
   <br/>
   <a
   href="https://github.com/hackribs/AREA420/issues">Report Bug</a>
+  <br>
   <a
      href="https://github.com/hackribs/AREA420/issues">Request Feature
   </a>
