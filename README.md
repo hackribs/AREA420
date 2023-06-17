@@ -3,7 +3,6 @@
 <p align="center">
   <h3 align="center">AREA420</h3>
   <br>
-  <br/>
   <p align="center">
     CUSTOM 1.12.2 Minecraft Forge Modpack
     <br>
