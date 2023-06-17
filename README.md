@@ -4,5 +4,7 @@
   <h3 align="center">AREA420</h3>
 <p align="center">
     CUSTOM 1.12.2 Minecraft Forge Modpack.
-<p align="center">
+<br>
+  <br/>
+  
   href="https://github.com/hackribs/AREA420/issues">Report Bug</a>
