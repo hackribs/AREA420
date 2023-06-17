@@ -2,7 +2,6 @@
 
 ![AREA 420 profpic](https://github.com/hackribs/AREA420/assets/48854364/cac1b099-9170-463c-8ef5-bbe4ec231031)
 
-A AMAZING 1.12.2  MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often 
 <br>
 <p align="center">
  <a href="https://github.com/hackribs/AREA420/issues">Report Bug</a>
