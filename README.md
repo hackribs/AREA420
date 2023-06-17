@@ -11,8 +11,9 @@
 </p>
 <br>
 <p align="center">
-A AMAZING 1.12.2 Minecraft MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often <br/>
-# Getting Started
+A AMAZING 1.12.2 Minecraft MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often 
+ 
+ # Getting Started
 
 ( ͡° ͜ʖ ͡°)------Look Below------ ( ͡° ͜ʖ ͡°)
 
