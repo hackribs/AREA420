@@ -4,6 +4,7 @@
 
 A AMAZING 1.12.2  MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often 
 <br>
+<p align="center">
  <a href="https://github.com/hackribs/AREA420/issues">Report Bug</a>
     .
     <a href="https://github.com/hackribs/AREA420/issues">Request Feature</a>
