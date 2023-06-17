@@ -1,8 +1,8 @@
 <br/>
 <p align="center">
   <h3 align="center">AREA420</h3>
-
-  <p align="center">
+![AREA 420 profpic](https://github.com/hackribs/AREA420/assets/48854364/677031e4-faba-4f28-916d-2e250520d041)
+<p align="center">
     CUSTOM 1.12.2 Minecraft Forge Modpack.
     <br/>
     <br/>
