@@ -10,7 +10,7 @@ A AMAZING 1.12.2  MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
     <a href="https://github.com/hackribs/AREA420/issues">Request Feature</a>
   </p>
 </p>
-# About The Project 
+
 <br>
 <p align="center">
 A AMAZING 1.12.2 Minecraft MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
