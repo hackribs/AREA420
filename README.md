@@ -5,7 +5,7 @@
   <p align="center">
     CUSTOM 1.12.2 Minecraft Forge Modpack.
     <br/>
- 
+ ![My Image](AREA 420 profpic.jpeg)
     <br/>
     <a href="https://github.com/hackribs/AREA420/issues">Report Bug</a>
     .
