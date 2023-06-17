@@ -40,10 +40,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/hackribs/ARE
 ## Authors
 
 * **Zookribs** - *Just a Stoner* - [Zookribs](https://github.com/hackribs/) - *Built Custom Mods and put together The pack and updates*
-* **Babytears420** - *Just another stoner * - [Babytears420]() - *Ideaology*
+* **Babytears420** - *Just another stoner * - Babytears420 - *Ideaology*
 
 ## Acknowledgements
 
 * [zookribs](https://github.com/hackribs)
-* [Babytears420]()
+* [Babytears420]
 
