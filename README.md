@@ -10,19 +10,19 @@ A AMAZING 1.12.2  MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
     <a href="https://github.com/hackribs/AREA420/issues">Request Feature</a>
   </p>
 </p>
-## About The Project
+# About The Project
 
 A AMAZING 1.12.2 Minecraft MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
 
-## Getting Started
+# Getting Started
 
 ( ͡° ͜ʖ ͡°)------Look Below------ ( ͡° ͜ʖ ͡°)
 
-### Prerequisites
+# Prerequisites
 
 *MUST HAVE CURSEFORGE *
 
-### Installation
+# Installation
 
 1. Download Zip
 2. Open Curseforge Launcher
