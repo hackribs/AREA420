@@ -11,7 +11,6 @@ A AMAZING 1.12.2  MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
   </p>
 </p>
 # About The Project
-
 A AMAZING 1.12.2 Minecraft MODPACK With Custom Mods and Normal Mods. WIP!!! Updates Often
 
 # Getting Started
